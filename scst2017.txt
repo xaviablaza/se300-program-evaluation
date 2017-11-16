@@ -1,0 +1,131 @@
+# SCST 2017-18 Major Catalog https://www.chapman.edu/catalog/oc/current/ug/content/8174.htm
+BACHELOR OF SCIENCE IN BIOCHEMISTRY AND MOLECULAR BIOLOGY
+SCI`150`Grand Challenges in Science I`1
+SCI`200`Grand Challenges in Science II`1
+SCI`250`Grand Challenges in Science III`1
+CHEM`140`General Chemistry I`3
+CHEM`140L`General Chemistry I Laboratory`1
+CHEM`150`General Chemistry II`3
+CHEM`150L`General Chemistry II Laboratory`1
+BIOL`204`From Molecules to Cells: Evolution of Life on Earth (Gen Biol I), Lecture and Laboratory`4
+BCHM`208`Introduction to Molecular Genetics, Lecture and Laboratory`4
+CHEM`230`Organic Chemistry I`3
+CHEM`230L`Organic Chemistry I Laboratory`1
+CHEM`331`Organic Chemistry II`3
+CHEM`331L`Organic Chemistry II Laboratory`1
+BCHM`335`Biochemistry I–BioMolecules, Lecture and Laboratory`4
+BCHM`336`Biochemistry II: BioMetabolism`3
+BCHM`420`Physical Biochemistry, Lecture and Laboratory`4
+BCHM`436`Molecular Genetics, Lecture and Laboratory`4
+>>>ELECTIVES`9-12
+BIOL`302`Introduction to Bioinformatics`3
+CHEM`310`Analytical Chemistry I, Lecture and Laboratory`4
+BIOL`317`Microbiology, Lecture and Laboratory`4
+BCHM`320`Bioengineering and Biotechnology`3
+BIOL`330`General Genetics, Lecture and Laboratory`4
+BIOL`337`Immunology`3
+CHEM`338`Symmetry in Chemistry`4
+CHEM`340`Physical Chemistry I, Lecture and Laboratory`4
+BCHM`350`Medicinal Chemistry`3
+BCHM`401`Cancer Biology`3
+CHEM`411`Analytical Chemistry II, Lecture and Laboratory`4
+CHEM`432`Advanced Organic Chemistry`3
+BCHM`438`Virology`3
+BCHM`444`Computational Biochemistry`3
+BIOL`450`Cell Biology, Lecture and Laboratory`4
+<<<ELECTIVES
+PHYS`107`General Physics for the Life Sciences I, Lecture and Laboratory`4
+PHYS`108`General Physics for the Life Sciences II, Lecture and Laboratory`4
+MATH`115`Calculus Part I: Differentiation and Integration`4
+MATH`116`Calculus Part II: Optimization and Differential Equations`4
+MATH`303`Biostatistics`3
+BACHELOR OF SCIENCE IN BIOLOGICAL SCIENCES
+SCI`150`Grand Challenges in Science I`1
+SCI`200`Grand Challenges in Science II`1
+SCI`250`Grand Challenges in Science III`1
+BIOL`101`Introduction to the Biological Sciences major`1
+BIOL`204`From Molecules to Cells: Evolution of Life on Earth (Gen Biol I), Lecture and Laboratory`4
+BIOL`205`Evolution and Diversity of Multicellular Organisms (Gen Biol II), Lecture and Laboratory`4
+PHYS`107`General Physics for the Life Sciences I, Lecture and Laboratory`4
+PHYS`108`General Physics for the Life Sciences II, Lecture and Laboratory`4
+MATH`110`Single Variable Calculus I`3
+MATH`111`Single Variable Calculus II`3
+CHEM`140`General Chemistry I`3
+CHEM`140L`General Chemistry I Laboratory`1
+CHEM`150`General Chemistry II`3
+CHEM`150L`General Chemistry II Laboratory`1
+CHEM`230`Organic Chemistry I`3
+CHEM`230L`Organic Chemistry I Laboratory`1
+CPSC`230`Computer Science I`3
+MATH`303`Biostatistics`3
+BIOL`498`Capstone Course for Biological Sciences Majors`3
+>>>AREA_OF_STUDY`molecular biology`24
+>>>three_of_following`11-12
+BIOL`208`Introduction to Molecular Genetics, Lecture and Laboratory`4
+BIOL`302`Introduction to Bioinformatics`3
+BIOL`317`Microbiology, Lecture and Laboratory`4
+BIOL`330`General Genetics, Lecture and Laboratory`4
+BCHM`335`Biochemistry I–Biomolecules, Lecture and Laboratory`4
+BIOL`401`Cancer Biology`3
+BIOL`436`Molecular Genetics, Lecture and Laboratory`4
+BCHM`438`Virology`3
+BIOL`450`Cell Biology, Lecture and Laboratory`4
+FSN`530`Food Microbiology`3
+FSN`530L`Food Microbiology Lab`1
+<<<three_of_following
+>>>one_of_following`3-4
+BIOL`210`Human Anatomy, Lecture and Laboratory`4
+BIOL`337`Immunology`3
+BIOL`343`Computational Neuroscience`3
+BIOL`345`Life's Physical World: from Molecules to Mammoths`3
+BIOL`365`Human Physiology Part A`3
+BIOL`366`Human Physiology Part B, Lecture and Laboratory`4
+BIOL`407`Neuroanatomy and Neurophysiology`3
+BIOL`410`Developmental Biology`3
+<<<one_of_following
+>>>one_of_following`3-4
+BIOL`301`Plant Biology, Lecture and Laboratory`4
+BIOL`319`Ecosystem Ecology, Lecture and Laboratory`4
+BIOL`324`Ecology, Lecture and Laboratory`4
+BIOL`333`Animal Behavior, Lecture and Laboratory`4
+BIOL`338`Ornithology, Lecture and Laboratory`4
+BIOL`369`Evolution: From DNA to Dinosaurs`3
+BIOL`440`Marine Biology`4
+<<<one_of_following
+>>>one_or_two`4-8
+BIOL`301`Plant Biology, Lecture and Laboratory`4
+BIOL`319`Ecosystem Ecology, Lecture and Laboratory`4
+BIOL`324`Ecology, Lecture and Laboratory`4
+BIOL`333`Animal Behavior, Lecture and Laboratory`4
+BIOL`338`Ornithology, Lecture and Laboratory`4
+BIOL`369`Evolution: From DNA to Dinosaurs`3
+BIOL`440`Marine Biology`4
+BIOL`291`Student-Faculty Research/Creative Activity`1-3
+BIOL`490`Independent Internship`½–3
+BIOL`491`Student-Faculty Research/Creative Activity`1-3
+BIOL`494`Senior Research: Data Analysis and Presentation`3
+BIOL`210`Human Anatomy, Lecture and Laboratory`4
+BIOL`337`Immunology`3
+BIOL`343`Computational Neuroscience`3
+BIOL`345`Life's Physical World: from Molecules to Mammoths`3
+BIOL`365`Human Physiology Part A`3
+BIOL`366`Human Physiology Part B, Lecture and Laboratory`4
+BIOL`407`Neuroanatomy and Neurophysiology`3
+BIOL`410`Developmental Biology`3
+<<<one_or_two
+<<<AREA_OF_STUDY
+BACHELOR OF SCIENCE IN CHEMISTRY
+SCI`150`Grand Challenges in Science I`1
+SCI`200`Grand Challenges in Science II`1
+SCI`250`Grand Challenges in Science III`1
+CHEM`140`General Chemistry I`3
+CHEM`140L`General Chemistry I Laboratory`1
+CHEM`150`General Chemistry II`3
+CHEM`150L`General Chemistry II Laboratory`1
+PHYS`101`General Physics I`3
+PHYS`101L`Lab–General Physics I`1
+PHYS`102`General Physics II`3
+PHYS`102L`Lab–General Physics II`1
+MATH`115`Calculus Part I: Differentiation and Integration`4
+MATH`116`Calculus Part II: Optimization and Differential Equations`4
+MATH`215`Introduction to Linear Algebra and Differential Equations`3
