@@ -1,0 +1,40 @@
+BACHELOR OF SCIENCE IN CHEMISTRY
+SCI`150`Grand Challenges in Science I`1
+SCI`200`Grand Challenges in Science II`1
+SCI`250`Grand Challenges in Science III`1
+CHEM`140`General Chemistry I`3
+CHEM`140L`General Chemistry I Laboratory`1
+CHEM`150`General Chemistry II`3
+CHEM`150L`General Chemistry II Laboratory`1
+PHYS`101`General Physics I`3
+PHYS`101L`Lab–General Physics I`1
+PHYS`102`General Physics II`3
+PHYS`102L`Lab–General Physics II`1
+MATH`115`Calculus Part I: Differentiation and Integration`4
+MATH`116`Calculus Part II: Optimization and Differential Equations`4
+MATH`215`Introduction to Linear Algebra and Differential Equations`3
+CHEM`230`Organic Chemistry I`3
+CHEM`230L`Organic Chemistry I Laboratory`1
+CHEM`301`Inorganic Chemistry Lecture and Laboratory`4
+CHEM`310`Analytical Chemistry I, Lecture and Laboratory`4
+BCHM`335`Biochemistry I–Biomolecules, Lecture and Laboratory`4
+CHEM`340`Physical Chemistry I, Lecture and Laboratory`4
+CHEM`331`Organic Chemistry II`3
+CHEM`331L`Organic Chemistry II Laboratory`1
+CHEM`411`Analytical Chemistry II, Lecture and Laboratory`4
+CHEM`441`Physical Chemistry II, Lecture and Laboratory`4
+>>>ELECTIVES`9
+CHEM`325`Atmospheric Chemistry`3
+CHEM`326`Aquatic Chemistry`3
+CHEM`327`Environmental Geochemistry`3
+BCHM`336`Biochemistry II: BioMetabolism`3
+CHEM`338`Symmetry in Chemistry`3
+BCHM`350`Medicinal Chemistry`3
+BCHM`420`Physical Biochemistry, Lecture and Laboratory`4
+CHEM`432`Advanced Organic Chemistry`3
+BCHM`444`Computational Biochemistry`3
+CHEM`451`Molecular Spectroscopy`3
+PHYS`451`Quantum Mechanics`3
+MATH`454`Numerical Analysis`3
+FSN`501`Food Chemistry`3
+FSN`502`Food Chemistry Lab`1

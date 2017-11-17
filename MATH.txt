@@ -1,0 +1,30 @@
+BACHELOR OF SCIENCE IN MATHEMATICS
+SCI`150`Grand Challenges in Science I`1
+SCI`200`Grand Challenges in Science II`1
+SCI`250`Grand Challenges in Science III`1
+MATH`215`Introduction to Linear Algebra and Differential Equations`3
+CPSC`220`Scientific Computing I`3
+CPSC`230`Computer Science I`3
+`MATH`115`Calculus Part I: Differentiation and Integration`4
+MATH`116`Calculus Part II: Optimization and Differential Equations`4
+MATH`250`Discrete Mathematics I`3
+MATH`315`Linear Algebra II (Advanced Linear Algebra)`3
+MATH`360`Probability Theory`3
+MATH`380`Introduction to Abstract Algebra`3
+MATH`450`Real Analysis`3
+MATH`451`Complex Analysis`3
+MATH`454`Numerical Analysis`3
+MATH`460`Modern Algebra`3
+BIOL`205`Evolution and Diversity of Multicellular Organisms (Gen Biol II), Lecture and Laboratory`4
+>>>ELECTIVES`12
+MATH`208`Foundations of Geometry`3
+MATH`251`Discrete Mathematics II`3
+MATH`260`Number Theory`3
+CPSC`320`Quantum Information Science`3
+MATH`361`Mathematical Statistics`3
+MATH`370`Special Topics in Mathematics`3
+MATH`390`Introduction to Differential Geometry`3
+MATH`440`Topology`3
+ECON`464`Game Theory I`3
+ECON`481``Economic Systems Design I: Principles and Experiments`3
+<<<ELECTIVES

@@ -1,0 +1,40 @@
+BACHELOR OF SCIENCE IN BIOCHEMISTRY AND MOLECULAR BIOLOGY
+SCI`150`Grand Challenges in Science I`1
+SCI`200`Grand Challenges in Science II`1
+SCI`250`Grand Challenges in Science III`1
+CHEM`140`General Chemistry I`3
+CHEM`140L`General Chemistry I Laboratory`1
+CHEM`150`General Chemistry II`3
+CHEM`150L`General Chemistry II Laboratory`1
+BIOL`204`From Molecules to Cells: Evolution of Life on Earth (Gen Biol I), Lecture and Laboratory`4
+BCHM`208`Introduction to Molecular Genetics, Lecture and Laboratory`4
+CHEM`230`Organic Chemistry I`3
+CHEM`230L`Organic Chemistry I Laboratory`1
+CHEM`331`Organic Chemistry II`3
+CHEM`331L`Organic Chemistry II Laboratory`1
+BCHM`335`Biochemistry I–BioMolecules, Lecture and Laboratory`4
+BCHM`336`Biochemistry II: BioMetabolism`3
+BCHM`420`Physical Biochemistry, Lecture and Laboratory`4
+BCHM`436`Molecular Genetics, Lecture and Laboratory`4
+>>>ELECTIVES`9-12
+BIOL`302`Introduction to Bioinformatics`3
+CHEM`310`Analytical Chemistry I, Lecture and Laboratory`4
+BIOL`317`Microbiology, Lecture and Laboratory`4
+BCHM`320`Bioengineering and Biotechnology`3
+BIOL`330`General Genetics, Lecture and Laboratory`4
+BIOL`337`Immunology`3
+CHEM`338`Symmetry in Chemistry`4
+CHEM`340`Physical Chemistry I, Lecture and Laboratory`4
+BCHM`350`Medicinal Chemistry`3
+BCHM`401`Cancer Biology`3
+CHEM`411`Analytical Chemistry II, Lecture and Laboratory`4
+CHEM`432`Advanced Organic Chemistry`3
+BCHM`438`Virology`3
+BCHM`444`Computational Biochemistry`3
+BIOL`450`Cell Biology, Lecture and Laboratory`4
+<<<ELECTIVES
+PHYS`107`General Physics for the Life Sciences I, Lecture and Laboratory`4
+PHYS`108`General Physics for the Life Sciences II, Lecture and Laboratory`4
+MATH`115`Calculus Part I: Differentiation and Integration`4
+MATH`116`Calculus Part II: Optimization and Differential Equations`4
+MATH`303`Biostatistics`3

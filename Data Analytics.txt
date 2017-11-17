@@ -1,0 +1,38 @@
+BACHELOR OF SCIENCE IN DATA ANALYTICS
+SCI`150`Grand Challenges in Science I`1
+SCI`200`Grand Challenges in Science II`1
+SCI`250`Grand Challenges in Science III`1
+MATH`110`Single Variable Calculus I`3
+ECON`200`Principles of Microeconomics`3
+MATH`203`Introduction to Statistics`3
+MGSC`207`Introduction to Business Analytics`3
+ACTG`210`Introduction to Financial Accounting`3
+CPSC`230`Computer Science I`3
+CPSC`231`Computer Science II`3
+CPSC`236`Visual Programming`3
+CPSC`285`Social and Ethical Issues in Computing`3
+MGSC`310`Statistical Models in Business Analytics`3
+CPSC`350`Data Structures and Algorithms`3
+CPSC`353`Data Communication and Computer Networks`3
+CPSC`355`Human Computer Interaction`3
+CPSC`370`Topics in Computer Science (Data Visualization)`3
+CPSC`392`Introduction to Data Science`3
+CPSC`393`Machine Learning`3
+CPSC`408`Database Systems`3
+MGSC`410`Applied Business Analytics`3
+>>>ELECTIVES`9
+MATH`303`Biostatistics`3
+ENV`310`Geographic Information Systems, Lecture and Laboratory`4
+CPSC`356`Android Application Development`3
+CPSC`357`iOS Application Development`3
+CPSC`360`Computer Graphics`3
+MATH`360`Probability Theory`3
+MATH`361`Mathematical Statistics`3
+CPSC`390`Artificial Intelligence`3
+MGSC`406`Advanced Experimental Design and Statistics`3
+CPSC`430`Computational Economics`3
+CPSC`435`BioMedical Informatics`3
+CPSC`445`High Performance Computing`3
+ECON`452`Econometrics`3
+CPSC`458`Web Engineering`3
+MGSC`496`Special Topics in Management Science (Applied Analytics and Decision Making)`3
