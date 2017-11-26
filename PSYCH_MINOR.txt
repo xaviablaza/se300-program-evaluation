@@ -1,0 +1,34 @@
+Minor in Psychology
+PSY`101`Introduction to Psychology`3
+PSY`203`Statistics for Behavioral Sciences`3
+PSY`204`Research Methods in the Behavioral Sciences`4
+>>>ELECTIVES`12
+PSY`310`Psychology of Learning`3
+PSY`315`Sensation and Perception`3
+PSY`317`Cognitive Psychology`3
+PSY`319`Motivation and Emotion`3
+PSY`322`Theories of Personality`3
+PSY`323`Child Development`3
+PSY`326`Child Psychology and Development`3
+PSY`327`Life Span Development`3
+PSY`328`Abnormal Psychology`3
+PSY`330`Child Abnormal Psychology`3
+PSY`333`Physiological Psychology`3
+PSY`336`Social Psychology`3
+PSY`340`Human Sexuality`3
+PSY`341`Cross–Cultural Psychology`3
+PSY`344`Psychology of Gender Identity and Sexual Orientation`3
+PSY`345`Sports Psychology`3
+PSY`355`Diversity in Marital and Family Relationships`3
+PSY`395`Topic Courses in Psychological Process`3
+PSY`428`Introduction to Clinical Psychology`3
+PSY`432`Introduction to Psychological Assessment`3
+PSY`433`Psychopharmacology`3
+PSY`436`Health Psychology`3
+PSY`437`Health and Well–Being`3
+PSY`446`Children and Trauma`3
+PSY`461`Psychology of Music`3
+PSY`481`Organizational Psychology`3
+PSY`482`Forensic Psychology`3
+PSY`495`Topics in Applied Psychology
+<<<ELECTIVES

@@ -1,0 +1,11 @@
+Minor in Business Administration
+MATH`109`Calculus with Applications in Business and Social Science`3
+ECON`200`Principles of Microeconomics`3
+ECON`201`Principles of Macroeconomics`3
+MGSC`209`Introductory Business Statistics`3
+ACTG`210`Introduction to Financial Accounting`3
+ACTG`211`Introduction to Managerial Accounting`3
+BUS`215`Legal Environment of Business`3
+MKTG`305`Fundamentals of Marketing for Non–Majors`3
+MGMT`316`Management of Organizations`3
+FIN`317`Financial Management`3
