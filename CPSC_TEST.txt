@@ -1,0 +1,62 @@
+BACHELOR OF SCIENCE IN COMPUTER SCIENCE
+SCI`150`Grand Challenges in Science I`1`SPRING
+SCI`200`Grand Challenges in Science II`1`FALL
+SCI`250`Grand Challenges in Science III`1`SPRING
+MATH`215`Introduction to Linear Algebra and Differential Equations`3`FALL`MATH 116
+CPSC`230`Computer Science I`3`EVERY
+CPSC`231`Computer Science II`3`EVERY`CPSC 230
+CPSC`236`Visual Programming`3`EVERY`CPSC 230
+MATH`250`Discrete Mathematics I`3`EVERY
+MATH`115`Calculus Part I: Differentiation and Integration`4`FALL
+MATH`116`Calculus Part II: Optimization and Differential Equations`4`SPRING`MATH 115
+
+PHYS`101`General Physics I`3`SPRING
+PHYS`101L`Lab–General Physics I`1`SPRING
+PHYS`102`General Physics II`3`FALL`PHYS 101
+PHYS`102L`Lab–General Physics II`1`FALL`PHYS 101
+
+
+
+
+CPSC`298`Computer Science Colloquium`1`EVERY`CPSC 230
+CPSC`298`Computer Science Colloquium`1`EVERY`CPSC 230
+CPSC`298`Computer Science Colloquium`1`EVERY`CPSC 230
+
+
+
+
+CPSC`330`Digital Logic Design I`3`EVERY`MATH 250
+CPSC`330L`Lab–Digital Logic Design I`1
+CPSC`350`Data Structures and Algorithms`3
+
+CPSC`351`Computer Architecture I`3
+CPSC`353`Data Communications and Computer Networks`3
+CPSC`354`Programming Languages`3
+CPSC`380`Operating Systems`3
+CPSC`402`Compiler Construction`3
+CPSC`408`Database Management`3
+>>>ELECTIVES`12
+MATH 251`Discrete Mathematics II`3
+CPSC`285`Social and Ethical Issues in Computing`3
+SE`300`Software Requirements and Testing`3
+SE`310`Software Design`3
+SE`320`The Software Development Lifecycle`3
+CPSC`352`Computer Architecture II`3
+CPSC`355`Human Computer Interaction`3
+CPSC`356`Android Application Development`3
+CPSC`357`iOS Application Development`3
+CPSC`360`Computer Graphics`3
+CPSC`366`Digital Logic Design II`3
+CPSC`370`Topics in Computer Science`3
+CPSC`390`Artificial Intelligence`3
+CPSC`392`Introduction to Data Science`3
+CPSC`393`Machine Learning`3
+CPSC`406`Algorithm Analysis`3
+CPSC`430`Computational Economics`3
+CPSC`445`High Performance Computing`3
+CPSC`453`Network Implementation and Security`3
+CPSC`465`Integrated Circuit Design I`3
+CPSC`466`Integrated Circuit Design II`3
+CPSC`498`Senior Project`3
+CPSC`499`Individual Study`3
+<<<ELECTIVES
