@@ -8,6 +8,10 @@ public class Major {
     private Set<Course> requirements;
     private Set<Course> electives;
 
+    public Major() {
+
+    }
+
     public Major(String majorName, Set<Course> requirements, Set<Course> electives) {
         this.majorName = majorName;
         this.requirements = requirements;

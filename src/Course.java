@@ -66,6 +66,22 @@ public class Course {
         this.courseSchedule = courseSchedule;
     }
 
+    public Set<Course> getPrerequisites() {
+        return prerequisites;
+    }
+
+    public void setPrerequisites(Set<Course> prerequisites) {
+        this.prerequisites = prerequisites;
+    }
+
+    public Set<Course> getCorequisites() {
+        return corequisites;
+    }
+
+    public void setCorequisites(Set<Course> corequisites) {
+        this.corequisites = corequisites;
+    }
+
     public Course addPrerequisite(Course course) {
         prerequisites.add(course);
         return this;
